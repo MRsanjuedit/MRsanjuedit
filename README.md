@@ -14,9 +14,9 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
 📚 **Learning**: Whisper-free voice apps 🗣️, decentralized infra for real-world use 🌍, and how not to over-engineer 😅  
 🛠️ **Building**:
 - `E&DaaS` 🔐 – Encryption & Decryption as a Service, focused on user-side privacy
-- `Hey Mojo` 🎙️ – Offline Voice Assistant with hotkeys and whisper-free wake-word magic
+- `Hey Mojo` 🎙️ – Offline Voice Assistant built like my own JARVIS 😁
 - `BYOD CLI` 🧰 – Bring Your Own Database: flexible tooling for backend devs who know what they want  
-😄 **Fun fact**: I once spent 2 hours naming a variable because naming things is harder than writing code 🧠
+😄 **Fun fact**: I once spent 2 hours naming a variable… and it’s still called `temp` 🤷
 
 ---
 
@@ -39,18 +39,19 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
 ## 🔥 Featured Projects
 
 ### 🛡️ **E&DaaS (Encryption & Decryption as a Service)**  
-_A secure microservice architecture that provides encryption without storing user data._  
-Tech: Spring Boot, AES, On-chain key hashes
+_A secure microservice architecture that will someday provide encryption without storing user data... once I finish debugging all the "works on my machine" issues._  
+Tech: Spring Boot, AES, On-chain key hashes, and lots of ☕
 
 ### 🧰 **BYOD CLI – Bring Your Own Database**  
 _A lightweight CLI to help devs integrate any database of their choice with simple secure operations._  
-Tech: Python, Click
+Tech: Java, SpringBoot, Micoservices, Python, and lots of ☕
 
-### 🗣️ **Hey Mojo!**  
-_Offline voice assistant triggered via wake word or hotkey. Built for speed, privacy, and convenience._  
-Tech: Vosk, Pyttsx3, TTS/STT APIs
+### 🎙️ **Hey Mojo!**  
+_Offline voice assistant triggered via wake word or hotkey, built for **my personal computer only** – think of it like my own JARVIS 😁_  
+Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT  
+> Built to help me launch apps, run scripts, and act cool... without sending anything to the cloud ☁️
 
-📌 _See pinned repos for more!_
+📌 _See pinned repos for more gems!_
 
 ---
 
@@ -66,17 +67,19 @@ Tech: Vosk, Pyttsx3, TTS/STT APIs
 ## 🤝 Let's Connect
 
 📧 **Email**: tkmojesh.itis@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tkmojesh)  
-🌐 [Portfolio](https://yubhian.vercel.app)
+💼 [LinkedIn](https://www.linkedin.com/in/tkmojesh/)  
+🌐 [Portfolio](https://portfolio-new-tau-inky.vercel.app/)
 
 ---
 
 ## 😎 Why Stick Around?
 
-If you're into clean architecture 🏗️, thoughtful solutions 💡, and projects that solve real-world pain (with a pinch of personality), you're in the right place.
+If you're into clean architecture 🏗️, thoughtful solutions 💡, and projects that solve real-world pain (with a touch of personality), you're in the right place.
 
 Let’s learn, build, and solve together — not just to ship, but to grow.  
 Because I’m not just here to code — I’m here to **create with purpose**.
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — Probably not Cory House, but I’ll own it anyway 😄
+
+---
