@@ -66,6 +66,12 @@ Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT
 > **Note:** I rarely push code to GitHub — mostly I wait until the project is complete.  
 > So if you’re looking for daily updates, you might want to check my carrier pigeon instead! 🕊️😄
 
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=sanjutalluri_&theme=tokyonight" alt="LeetCode Stats" width="60%" />
+</p>
+
 
 ---
 
