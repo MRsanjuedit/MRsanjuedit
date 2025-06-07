@@ -58,8 +58,8 @@ Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRsanjuedit&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRsanjuedit&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRsanjuedit&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRsanjuedit&theme=dracula" width="48%" />
 </p>
 
 
@@ -69,7 +69,7 @@ Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=sanjutalluri_&theme=radical" alt="LeetCode Stats" width="60%" />
+  <img src="https://leetcode-stats.vercel.app/api?username=sanjutalluri_&theme=dracula" alt="LeetCode Stats" width="60%" />
 </p>
 
 
