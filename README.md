@@ -78,7 +78,7 @@ Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT
 
 📧 **Email**: tkmojesh.itis@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/tkmojesh/)  
-🌐 [Portfolio](https://portfolio-new-tau-inky.vercel.app/)
+🌐 [Portfolio](https://www.tkmojesh.xyz)
 
 ---
 
