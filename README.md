@@ -12,10 +12,7 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
 
 💻 **Currently coding in**: `Java ☕`, `Python 🐍`, `JavaScript ⚡`, `Solidity 🧱`, `Next.js 🌐`, `Spring Boot 🌿`  
 📚 **Learning**: Whisper-free voice apps 🗣️, decentralized infra for real-world use 🌍, and how not to over-engineer 😅  
-🛠️ **Building**:
-- `E&DaaS` 🔐 – Encryption & Decryption as a Service, focused on user-side privacy
-- `Hey Mojo` 🎙️ – Offline Voice Assistant built like my own JARVIS 😁
-- `BYOD CLI` 🧰 – Bring Your Own Database: flexible tooling for backend devs who know what they want  
+🛠️ **Building**: Secure tools, offline assistants, and whatever I wish existed yesterday 🚀  
 😄 **Fun fact**: I once spent 2 hours naming a variable… and it’s still called `temp` 🤷
 
 ---
@@ -38,20 +35,8 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
 
 ## 🔥 Featured Projects
 
-### 🛡️ **E&DaaS (Encryption & Decryption as a Service)**  
-_A secure microservice architecture that will someday provide encryption without storing user data... once I finish debugging all the "works on my machine" issues._  
-Tech: Spring Boot, AES, On-chain key hashes, and lots of ☕
-
-### 🧰 **BYOD CLI – Bring Your Own Database**  
-_A lightweight CLI to help devs integrate any database of their choice with simple secure operations._  
-Tech: Java, SpringBoot, Micoservices, Python, and lots of ☕
-
-### 🎙️ **Hey Mojo!**  
-_Offline voice assistant triggered via wake word or hotkey, built for **my personal computer only** – think of it like my own JARVIS 😁_  
-Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT  
-> Built to help me launch apps, run scripts, and act cool... without sending anything to the cloud ☁️
-
-📌 _See pinned repos for more gems!_
+🔗 _Check out my **pinned repositories** below to see what I’ve been working on lately._  
+> Expect tools that aim to make dev life easier, offline AI experiments, and backend builds that are actually fun to work on.
 
 ---
 
@@ -61,11 +46,8 @@ Tech: Vosk, Pyttsx3, Wake Word Detection, Whisper-Free STT
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRsanjuedit&theme=dark" width="48%" />
 </p>
 
-
 > **Note:** I rarely push code to GitHub — mostly I wait until the project is complete.  
 > So if you’re looking for daily updates, you might want to check my carrier pigeon instead! 🕊️😄
-
-
 
 ---
 
@@ -86,5 +68,3 @@ Because I’m not just here to code — I’m here to **create with purpose**.
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — Probably not Cory House, but I’ll own it anyway 😄
-
----
