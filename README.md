@@ -1,23 +1,21 @@
-# 👋 Hey there, I'm Mojesh!
+# 👋 Hey, I’m Mojesh!
 
-Welcome to my GitHub corner of the universe!  
-I'm a **Backend Developer 🧑‍💻 | Web3 Engineer ⛓️ | Problem-Solver in Progress 🔧**  
-by day—and a **curious builder, code philosopher, and lifelong learner 🌱** by night.
-
-I craft systems that scale, code that lasts, and ideas that aim to make me irreplaceable — even by the smartest AI. 😌
+Welcome to my corner of GitHub 👨‍💻  
+I’m a **Backend Developer | Web3 Engineer | Builder in Progress** —  
+writing code that scales, solves real-world problems, and sometimes even makes me feel smarter than my debugger. 😎
 
 ---
 
 ## 🚀 About Me
 
-💻 **Currently coding in**: `Java ☕`, `Python 🐍`, `JavaScript ⚡`, `Solidity 🧱`, `Next.js 🌐`, `Spring Boot 🌿`  
-📚 **Learning**: Whisper-free voice apps 🗣️, decentralized infra for real-world use 🌍, and how not to over-engineer 😅  
-🛠️ **Building**: Secure tools, offline assistants, and whatever I wish existed yesterday 🚀  
-😄 **Fun fact**: I once spent 2 hours naming a variable… and it’s still called `temp` 🤷
+💻 **Languages & Frameworks**: `Java ☕`, `Python 🐍`, `JavaScript ⚡`, `Solidity ⛓️`, `Next.js 🌐`, `Spring Boot 🌿`  
+📚 **Currently Exploring**: Voice-first AI apps 🎙️, decentralized infra 🌐, and minimalism in code ✨  
+🛠️ **What I Build**: Secure tools, offline-first AI assistants, and dev utilities I wish existed yesterday  
+😂 **Fun Fact**: I spent 2 hours naming a variable... it’s still called `temp` 🤷‍♂️
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -33,10 +31,10 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects Worth Your Scroll
 
-🔗 _Check out my **pinned repositories** below to see what I’ve been working on lately._  
-> Expect tools that aim to make dev life easier, offline AI experiments, and backend builds that are actually fun to work on.
+🚀 _Check out my **pinned repos** for projects I actually enjoyed building._  
+From dev tools to offline AI experiments to backend systems with real-world utility.
 
 ---
 
@@ -46,12 +44,12 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRsanjuedit&theme=dark" width="48%" />
 </p>
 
-> **Note:** I rarely push code to GitHub — mostly I wait until the project is complete.  
-> So if you’re looking for daily updates, you might want to check my carrier pigeon instead! 🕊️😄
+> _I don’t commit daily — I push when it’s ready. Quality over quantity.  
+> For daily updates, try my carrier pigeon instead 🕊️_
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 📧 **Email**: tkmojesh.itis@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/tkmojesh/)  
@@ -59,12 +57,18 @@ I craft systems that scale, code that lasts, and ideas that aim to make me irrep
 
 ---
 
-## 😎 Why Stick Around?
+## 🧠 Why Follow Me?
 
-If you're into clean architecture 🏗️, thoughtful solutions 💡, and projects that solve real-world pain (with a touch of personality), you're in the right place.
+If you're into:
 
-Let’s learn, build, and solve together — not just to ship, but to grow.  
-Because I’m not just here to code — I’m here to **create with purpose**.
+- Thoughtful code, not just clever code
+- Building with intention
+- Projects that feel useful, not just flashy
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
-> — Probably not Cory House, but I’ll own it anyway 😄
+Then we’re on the same page.  
+Let’s learn, build, and solve — with purpose.
+
+> _“Code is like humor. If you have to explain it, it’s bad.”_  
+> — Probably not Cory House, but I’ll claim it 😄
+
+---
