@@ -8,7 +8,7 @@ writing code that scales, solves real-world problems, and sometimes even makes m
 
 ## 🚀 About Me
 
-💻 **Languages & Frameworks**: `Java ☕`, `Python 🐍`, `JavaScript ⚡`, `Solidity ⛓️`, `Next.js 🌐`, `Spring Boot 🌿`  
+💻 **Tech I Use**: Backend with Java & Spring Boot, Web3 with Solidity, frontend sprinkles with Next.js & JS  
 📚 **Currently Exploring**: Voice-first AI apps 🎙️, decentralized infra 🌐, and minimalism in code ✨  
 🛠️ **What I Build**: Secure tools, offline-first AI assistants, and dev utilities I wish existed yesterday  
 😂 **Fun Fact**: I spent 2 hours naming a variable... it’s still called `temp` 🤷‍♂️
@@ -41,7 +41,7 @@ From dev tools to offline AI experiments to backend systems with real-world util
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRsanjuedit&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=MRsanjuedit&theme=dark" width="48%" />
 </p>
 
 > _I don’t commit daily — I push when it’s ready. Quality over quantity.  
